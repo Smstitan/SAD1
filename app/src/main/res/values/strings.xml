@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MA2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    #FF
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">calculate</string>
+    <string name="FF_H1">Lorentz factor         …     Calculator</string>
+    <string name="FF_H_1">Enter the speed v</string>
+    <string name="FF_H_2">Answer</string>
+    <string name="FF2"> </string>
+    <string name="FFO1"> </string>
+    <string name="spi_factor">Spi-Factor</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    #FS
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="FS_H1">SPI-FACTOR</string>
+    <string name="display_spi_factor">UPDATE Spi-Factor</string>
+    <string name="previous"><b><big><big><big>←</big></big></big></b>Previous Page</string>
+</resources>
